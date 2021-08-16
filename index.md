@@ -7,7 +7,7 @@ This page allows you to learn more info on github pages pro!
 ## Index
 - [Documentations](#documentations)
 - [Desktop]()
-- [HTML/CSS/YML Basics]((#code-basics))
+- [HTML/CSS/YML Basics](#code-basics)
 - [Guides](#guides)
 
 
