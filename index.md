@@ -5,10 +5,10 @@ This page allows you to learn more info on github pages pro!
 ### [Offical Page](https://kadedevteam.github.io/GithubPagesPro/)
 
 ## Index
-- Documentations
-- Desktop
-- HTML/CSS/YML Basics
-- Guides
+- [Documentations](#documentations)
+- [Desktop]()
+- [HTML/CSS/YML Basics]((#code-basics))
+- [Guides](#guides)
 
 
 ## Documentations!
