@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages Pro Documentation Page!
 
-You can use the [editor on GitHub](https://github.com/kadedevteam/Documentations/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page allows you to learn more info on github pages pro!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Offical Page](https://kadedevteam.github.io/GithubPagesPro/)
 
-### Markdown
+## Index
+- Documentations
+- Desktop
+- HTML/CSS/YML Basics
+- Guides
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Documentations!
+all sources for documentations here:
+- [Pull Request](https://github.com/kadedevteam/Github-Pages-Pro/pulls)
+- [Issue Templates](https://github.com/kadedevteam/Github-Pages-Pro/issues)
+- [Disscutions!](https://github.com/kadedevteam/Github-Pages-Pro/discussions)
 
-# Header 1
-## Header 2
-### Header 3
+## Code Basics
+There are some languages that need to be learned (or at least the basics) to create a site!
 
-- Bulleted
-- List
+here are some reccomended guides
 
-1. Numbered
-2. List
+- [HTML BASICS](http://www.simplehtmlguide.com/basics.php#:~:text=%20HTML%20Basics%20%201%20Headings.%20Use%20headings,your%20holiday%20photos%20or%20other%20images...%20More%20)
+- [YML BASICS](https://www.tutorialspoint.com/yaml/yaml_basics.htm)
+- [HAXE BASICS](https://haxe.org/documentation/introduction/)
+- [CSS BASICS](https://www.w3schools.com/Css/css_intro.asp)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Guides
+Here are all offical guides here:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**NOTE** make sure you have pages pro setup! if you dont know how, check out the guide [here](https://kadedevteam.github.io/GithubPagesPro/SettingUpPagesPro)
 
-### Jekyll Themes
+### EXMOD GUIDES
+- [Modding]()
+- [Listing]()
+- [Pages]()
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kadedevteam/Documentations/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### GIHTUB PAGES PRO GUIDES
+- [About and Creating a site!]()
+- [Creating a Homepage]()
+- [New Pages]()
+- [Pages Layout]()
+- [Header/Sidebar]()
+- [HTML ENCEPTYING]()
+- [Using Inspect!]()
+- [Assets/Desighning]()
+- [Using submodules]()
+- [Custom 404 Pages]()
+- [Saving Web Souce To Jeykll ]()
+- [Troubleshooting]()
 
-### Support or Contact
+### USING JEKYLL TO BUILD SITES: GUIDES
+- [Github and Jekyll]()
+- [Creating A Site wiht Jekyll]()
+- [Testing Site With Jekyll]()
+- [Adding Github Markdown]()
+- [Adding a Theme]()
+- [Jeykll Errors/Troubleshooting]()
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### CONFIGURING DOMAINS/URL(S)
+- [Creating Custom Domains and url(s)]()
+- [Managing Domains]()
+- [Troubleshooting]()
+
+### REALESING YOUR WEBSITE!
+- [Publishing Site]()
+- [Troubleshooting]()
