@@ -34,23 +34,23 @@ Here are all offical guides here:
 **NOTE** make sure you have pages pro setup! if you dont know how, check out the guide [here](https://kadedevteam.github.io/GithubPagesPro/SettingUpPagesPro)
 
 ### EXMOD GUIDES
-- [Modding]({{site.url}}exmod/)
-- [Listing]({{site.url}}exmod/)
-- [Pages]({{site.url}}exmod/)
+- [Modding](https://kadedevteam.github.io/Pages-ExMod/)
+- [Listing](https://kadedevteam.github.io/Pages-ExMod/)
+- [Pages](https://kadedevteam.github.io/Pages-ExMod/)
 
 ### GIHTUB PAGES PRO GUIDES
-- [About and Creating a site!]({{site.url}}guidespro/)
-- [Creating a Homepage]({{site.url}}guidespro/)
-- [New Pages]({{site.url}}guidespro/)
-- [Pages Layout]({{site.url}}guidespro/)
-- [Header/Sidebar]({{site.url}}guidespro/)
-- [HTML ENCEPTYING]({{site.url}}guidespro/)
-- [Using Inspect!]({{site.url}}guidespro/)
-- [Assets/Desighning]({{site.url}}guidespro/)
-- [Using submodules]({{site.url}}guidespro/)
-- [Custom 404 Pages]({{site.url}}guidespro/)
-- [Saving Web Souce To Jeykll ]({{site.url}}guidespro/)
-- [Troubleshooting]({{site.url}}guidespro/)
+- [About and Creating a site!](https://kadedevteam.github.io/Pages-Guides/creating-site)
+- [Creating a Homepage](https://kadedevteam.github.io/Pages-Guides/creating-homepage)
+- [New Pages](https://kadedevteam.github.io/Pages-Guides/new-pages)
+- [Pages Layout](https://kadedevteam.github.io/Pages-Guides/layout)
+- [Header/Sidebar](https://kadedevteam.github.io/Pages-Guides/header)
+- [HTML ENCEPTYING](https://kadedevteam.github.io/Pages-Guides/html)
+- [Using Inspect!](https://kadedevteam.github.io/Pages-Guides/inspect)
+- [Assets/Desighning](https://kadedevteam.github.io/Pages-Guides/assets)
+- [Using submodules](https://kadedevteam.github.io/Pages-Guides/sub-modules)
+- [Custom 404 Pages](https://kadedevteam.github.io/Pages-Guides/404-pages)
+- [Saving Web Souce To Jeykll ](https://kadedevteam.github.io/Pages-Guides/saving-source)
+- [Troubleshooting](https://kadedevteam.github.io/Pages-Guides/troubleshooting)
 
 ### USING JEKYLL TO BUILD SITES: GUIDES
 - [Github and Jekyll]({{site.url}}jekyllguides/)
