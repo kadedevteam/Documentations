@@ -67,5 +67,5 @@ Here are all offical guides here:
 - [Troubleshooting]({{site.url}}configguides/)
 
 ### REALESING YOUR WEBSITE!
-- [Publishing Site]({{site.url}}realesingsite/)
-- [Troubleshooting]({{site.url}}troubleshooting/)
+- [Publishing Site](https://kadedevteam.github.io/Documentations/realesingsite)
+- [Troubleshooting](https://kadedevteam.github.io/Documentations/troubleshooting)
