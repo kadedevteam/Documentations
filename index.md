@@ -50,7 +50,6 @@ Here are all offical guides here:
 - [Using submodules](https://kadedevteam.github.io/Pages-Guides/sub-modules)
 - [Custom 404 Pages](https://kadedevteam.github.io/Pages-Guides/404-pages)
 - [Saving Web Souce To Jeykll ](https://kadedevteam.github.io/Pages-Guides/saving-source)
-- [Troubleshooting](https://kadedevteam.github.io/Pages-Guides/troubleshooting)
 
 ### USING JEKYLL TO BUILD SITES: GUIDES
 - [Github and Jekyll](https://kadedevteam.github.io/Pages-Jeykll/github-and-jeykll)
@@ -64,7 +63,6 @@ Here are all offical guides here:
 ### CONFIGURING DOMAINS/URL(S)
 - [Creating Custom Domains and url(s)]({{site.url}}configguides/)
 - [Managing Domains]({{site.url}}configguides/)
-- [Troubleshooting]({{site.url}}configguides/)
 
 ### REALESING YOUR WEBSITE!
 - [Publishing Site](https://kadedevteam.github.io/Documentations/realesingsite)
