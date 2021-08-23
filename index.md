@@ -44,8 +44,6 @@ Here are all offical guides here:
 - [New Pages](https://kadedevteam.github.io/Pages-Guides/new-pages)
 - [Pages Layout](https://kadedevteam.github.io/Pages-Guides/layout)
 - [Header/Sidebar](https://kadedevteam.github.io/Pages-Guides/header)
-- [HTML ENCEPTYING](https://kadedevteam.github.io/Pages-Guides/html)
-- [Using Inspect!](https://kadedevteam.github.io/Pages-Guides/inspect)
 - [Assets/Desighning](https://kadedevteam.github.io/Pages-Guides/assets)
 - [Using submodules](https://kadedevteam.github.io/Pages-Guides/sub-modules)
 - [Custom 404 Pages](https://kadedevteam.github.io/Pages-Guides/404-pages)
