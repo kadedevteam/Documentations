@@ -53,12 +53,12 @@ Here are all offical guides here:
 - [Troubleshooting](https://kadedevteam.github.io/Pages-Guides/troubleshooting)
 
 ### USING JEKYLL TO BUILD SITES: GUIDES
-- [Github and Jekyll]({{site.url}}jekyllguides/)
-- [Creating A Site wiht Jekyll]({{site.url}}jekyllguides/)
-- [Testing Site With Jekyll]({{site.url}}jekyllguides/)
-- [Adding Github Markdown]({{site.url}}jekyllguides/)
-- [Adding a Theme]({{site.url}}jekyllguides/)
-- [Jeykll Errors/Troubleshooting]({{site.url}}jekyllguides/)
+- [Github and Jekyll](https://kadedevteam.github.io/Pages-Jeykll/github-and-jeykll)
+- [Creating A Site wiht Jekyll](https://kadedevteam.github.io/Pages-Jeykll/creating-site-with-jeykll)
+- [Testing Site With Jekyll](https://kadedevteam.github.io/Pages-Jeykll/testing-site)
+- [Adding Github Markdown](https://kadedevteam.github.io/Pages-Jeykll/adding-gh-markdown)
+- [Adding a Theme](https://kadedevteam.github.io/Pages-Jeykll/adding-a-theme)
+- [Jeykll Errors/Troubleshooting](https://kadedevteam.github.io/Pages-Jeykll/errors-trouble)
 
 
 ### CONFIGURING DOMAINS/URL(S)
